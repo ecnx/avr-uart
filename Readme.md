@@ -1,4 +1,4 @@
-# avr-i2c
+# avr-uart
 UART Library for AVR Atmega328p
 
 Example:
